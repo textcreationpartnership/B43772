@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for incouraging the throwing of silk in this kingdom, and discouraging the importation of foreign thrown silk hither, especially over-land</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43772</idno><idno type="EEBO-CITATION">767840346</idno>
+  <idno type="VID">212292</idno>
+  <idno type="EEBO-PROQUEST">2240869514</idno>
+  
+            <idno type="OCLC"> 767840346</idno>
+            <idno type="OCLC">ocn 767840346</idno>
+            <idno type="STC">Wing R492</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212292)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3012:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for incouraging the throwing of silk in this kingdom, and discouraging the importation of foreign thrown silk hither, especially over-land</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Columbia University. Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Silk industry --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:212292:1"/>
+            <pb facs="tcp:212292:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:212292:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:212292:3"/>
+            <head>REASONS for Incouraging the Throwing of Silk in this Kingdom, and Discouraging the Im<g ref="char:EOLhyphen"/>portation of Foreign Thrown Silk hither, especially Over-Land.</head>
+            <p>
+               <hi>First,</hi> FOrasmuch as the Throwing of Silk Imploys many Thou<g ref="char:EOLhyphen"/>sands of Poor, the greatest numbers of which are, The Wives, Widows, and Children of Seamen.</p>
+            <p>
+               <hi>Secondly,</hi> For that it occasions the Consumption of the greatest quantities of our Woollen Manufacture, in which many Thousand of Poor are Imployed, That Silk being alwayes brought Raw that comes from <hi>Turky,</hi> (whither our Cloth is sent) and is of no use unthrown.</p>
+            <p>
+               <hi>Thirdly,</hi> if Foreign Thrown Silk be incouraged to be Impor<g ref="char:EOLhyphen"/>ted (especially over Land) in all probability it will be the Ruine of the Throwing Trade, (as has been experienced:) And also of all those that depend thereon, as was evident by the Out-Cries of Multitudes all over the City, when it was suffer'd, even to the Doors of the Honourable House of Commons before the late Act past for discouraging of it.</p>
+            <p>
+               <hi>Fourthly,</hi> For that it will of necessity greatly hinder the Exporta<g ref="char:EOLhyphen"/>tion of Cloth, or bring it to a very Low Price, as it did before the late Act past, to the Dammage of the Nation in general, as well as the Impoverishment of those Imployed in the Manufacturing thereof.</p>
+            <p>
+               <hi>Fifthly,</hi> If it be objected that nothing is desired but what we do not Throw, and that if the Weavers have it not as cheap here, as it is had in <hi>Holland</hi> and <hi>France,</hi> they shall suffer greatly; and the <hi>Lustring</hi> and <hi>Alamode</hi> Manufacture be in danger of being lost, Foreign Wove Silk being Imported hither cheaper than they can bring it to Market.</p>
+            <p>To which is Answered,</p>
+            <p>† That there is considerable Quantities on the way by Sea coming hither.</p>
+            <p>* And that there is no Silk, but in a little time, there is reason to be<g ref="char:EOLhyphen"/>lieve may be Thrown here.</p>
+            <p>† If any be suffered to be brought Over-Land, so much may be brought under the Umbrage and Denomination thereof, and so Cheap, that the <hi>Weavers</hi> may have little, or no occasion for <hi>Turky</hi> Silk Thrown, Counterfeit <hi>Italian</hi> Silk (which will serve for almost all purposes) being so like what they desire, that it is rather bought upon Reputation, than Judgment, and consequently will come in, if the other does.</p>
+            <p>* All which considered as it was by King, Lords, and Commons be<g ref="char:EOLhyphen"/>fore the Late Act past for Disincouraging the Importation of Foreign Thrown Silk into this Kingdom Over-Land; It is again humbly left to their Wisdom, Whether it be more reasonable that the Late Act should remain in Force, and that a Branch of the Weaving-Trade should suffer, and the <hi>Alamode</hi> and <hi>Lustring</hi> Manufacture, which is but of Yesterday, should be Discourag'd, or the Throwing-Trade be Ruin'd, and all that depend thereon Begger'd, The Consumption of our Woollen Manufacture Impeded, and all that depend thereon Impoverished.</p>
+         </div>
+         <div type="response_to_text">
+            <pb facs="tcp:212292:3"/>
+            <head>The Weavers Reply.</head>
+            <p>
+               <hi>First,</hi> THese Persons are imployed in Throwing of <hi>Turky</hi> and <hi>China</hi> Silks, such as were (before the late Act) Throwed in <hi>Holland</hi> and imported hither, to the dammage of the <hi>English</hi> Throwers, But the present Bill in Parlia<g ref="char:EOLhyphen"/>ment provides against the Importation of such Silks.</p>
+            <p>The Numbers of Persons imployed by the <hi>Throwers,</hi> are very inconsiderable, if compared with those imployed by the <hi>Weavers,</hi> in Manufacturing of fine <hi>Italian</hi> Thrown Silk, who also have Wives and Children to be maintained by them.</p>
+            <p>
+               <hi>Secondly,</hi> Much greater quantities of <hi>Turky</hi> Silk would be consumed, or used in Woven Silks, had we fine <hi>Italian</hi> Thrown Silk, in like manner as our Neighbours beyond the Seas: For that <hi>Turky</hi> Silk is of little Use without fine <hi>Italian</hi> Silk to mix with it, The Trade to <hi>Italy</hi> may be truly said to take off as much Manu<g ref="char:EOLhyphen"/>factur'd Wool, as the <hi>Turky</hi> Trade, besides many other Commodities of the growth of this Nation.</p>
+            <p>
+               <hi>Thirdly,</hi> Fine <hi>Italian</hi> and <hi>Sicilian</hi> Silks are desired to be Imported over Land, which the <hi>English</hi> Throwers cannot Throw, and all the Noise and Interest that is made against the Importation thereof, is because it will abate the extravagant Price of <hi>Turky</hi> Silk, which is advanced from 17 <hi>s.</hi> to 21 <hi>s. per l.</hi> and unless the <hi>Weavers</hi> are releived, it is said the same will be at 25 <hi>s. per l.</hi>
+            </p>
+            <p>These Outcries (however immodestly owned) were on account of a Bill to in<g ref="char:EOLhyphen"/>joyn the wear of Woollen several Months in the Year.</p>
+            <p>
+               <hi>Fourthly,</hi> The Consumption or Use of <hi>Turky</hi> Silk is an Incouragement to the Exportation of Cloth; and when <hi>Turky</hi> Silk was at a Reasonable Price, the same was Customarily Exported to <hi>Holland, Flanders, Hamburgh</hi> and <hi>France;</hi> and greater Quantities were then also worked up by the <hi>English Weavers,</hi> to the great Incouragement of the Exportation of Cloth; but now (by Reason of the great Price of <hi>Turky</hi> Silk) there is none Exported: Which is a great detriment to the Woollen Manufacture.</p>
+            <p>† Merchants of known Integrity do say that but one <hi>English</hi> Ship (called the Princess) is expected with <hi>Messina</hi> Silk until about <hi>September,</hi> 1693. or the re<g ref="char:EOLhyphen"/>turn of the Convoy now going to <hi>Turky,</hi> which Ship is in great danger, and occa<g ref="char:EOLhyphen"/>sions the extraordinary Insurance of 40 Guineas <hi>per Cent.</hi> And but one <hi>English</hi> Ship of Ten (that came from the several Ports of <hi>Italy, Sicily</hi> and <hi>Naples</hi>) hath escaped the <hi>French.</hi>
+            </p>
+            <p>* The <hi>Throwers</hi> cannot Throw such Fine <hi>Italian</hi> Thrown Silks as are desired to be Imported over Land, For that such Silks must necessarily be Wound by a Water-Engine; the setting up whereof they have Industriously opposed, and their Journeymen (however Incouraged) have threatned to pull down the Houses of such who were willing to Erect such Engines.</p>
+            <p>† That fine <hi>Italian</hi> and <hi>Dutch</hi> Thrown Silks are as easily distinguished as Flax and Hemp, and the Officers at the <hi>Custom-House</hi> of <hi>London</hi> (where Thrown Silks are only brought) do daily distinguish Goods, less distinguishable than such Thrown Silks.</p>
+            <p>* That there will be as much Money paid to the Poor for Manufacturing of <hi>Alamodes</hi> and <hi>Lustrings</hi> (if duely Incouraged, and though but of Yesterday) as the whole Trade of <hi>Throwers</hi> do pay for Winding and Throwing of Silk, but no Comparison can be made with the several other Branches of the Weaving Trade.</p>
+            <p>All which Considered, and that the Extravagant Price (not the Consumption of <hi>Turky</hi> Silk) is Projected, It's prayed that all Private Interest, as Ingrossing of Silk, or advancing the Price thereof may be discouraged, by permitting Fine <hi>Italian</hi> and <hi>Sicilian</hi> Thrown Silks to be imported over Land by <hi>Holland, Ham<g ref="char:EOLhyphen"/>burgh,</hi> &amp;c. only during the present War with <hi>France,</hi> or until such time as the <hi>Throwers</hi> can provide and Throw the same Silks. <hi>Which will procure a greater Consumption of the Woollen Manufacture, and prevent the Ruin of the Silk Weaving Trade.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
